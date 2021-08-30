@@ -1,3 +1,5 @@
 # Demo Git Repository
 
-This is athe first file in this repo.
+This is a the first file in this repo.
+
+This is the second file
